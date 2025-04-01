@@ -20,4 +20,4 @@ node bypass domain target 80000 64 10 proxy.txt
 
 python3 start.py APACHE domain target 4 894 proxy.txt 61 1693
 
-Program akan berjalan apabila menggunakan client VPS atau Linux
+Program akan berjalan apabila menggunakan client VPS atau OS Linux
